@@ -4,7 +4,7 @@ Brownian bridge movement model: an empirical estimate of a movement path from di
 
 Compatibility updates by Renova.
 
-Version 3.0.9001: `NAMESPACE` imports the graphics and stats functions the package calls (`contour`, `lines`, `points`, `na.omit`, `optimize`, `sd`). No other file changed.
+Version 3.0.9001: `NAMESPACE` imports the graphics and stats functions the package calls (`contour`, `lines`, `points`, `na.omit`, `optimize`, `sd`). R function bodies are unchanged; metadata updates are described below.
 
 ## Install
 
