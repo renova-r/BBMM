@@ -1,1 +1,7 @@
 exportPattern("^[[:alpha:]]+")
+importFrom(graphics,contour)
+importFrom(graphics,lines)
+importFrom(graphics,points)
+importFrom(stats,na.omit)
+importFrom(stats,optimize)
+importFrom(stats,sd)
